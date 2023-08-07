@@ -10,3 +10,9 @@ Run
   git config --global user.name "Your Name"
 
 git add file.name/.(all)
+git commit -m "Message"
+
+git log 
+
+head and master
+unstage
