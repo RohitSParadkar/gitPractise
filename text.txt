@@ -1,0 +1,6 @@
+hello file 
+echo your text > file.extension
+
+git init
+git status 
+git add file.name/.(all)
