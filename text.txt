@@ -16,3 +16,7 @@ git log
 
 head and master
 unstage
+
+git remote add origin {u} 
+git remote -v
+                             
