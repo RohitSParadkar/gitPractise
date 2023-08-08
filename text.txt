@@ -16,3 +16,43 @@ git log
 
 head and master
 unstage
+
+git remote add origin https://github.com/RohitSParadkar/gitPractise.git
+
+git remote -v
+                             
+git push origin main
+
+branches: non finalize 
+fork : add repo to your account
+git branch {name}
+git checkout {name} point to this branch
+
+clone:
+git clone https://github.com/RohitSParadkar/TextUtils-React.git
+
+upstream:
+go to that directory and execute following command
+git remote add upstream https://github.com/CodeWithHarry/TextUtils-React.git
+git remote -v
+
+pull request
+
+push code to other barnch:
+git push origin mybranch
+
+force push:
+git push origin mybranch -f
+
+-----------------------------------pull form upstream--------------------------
+git fetch --all prune
+git chackout {branch}
+git reset --hard upstream main(main branch in local folder as same as upstream)
+git push origin main/master
+          or
+git pull upstream main
+git push origin main
+---------------------------merge commit-----------------------------------
+
+
+ 
