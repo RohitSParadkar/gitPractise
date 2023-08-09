@@ -53,6 +53,7 @@ git push origin main/master
 git pull upstream main
 git push origin main
 ---------------------------merge commit-----------------------------------
-
+merge confilct -when two person modified same line number
 
  
+                                                                                                                                                                          
