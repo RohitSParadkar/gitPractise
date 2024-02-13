@@ -1,2 +1,8 @@
 this is second file 
 https://xd.adobe.com/view/5794799a-b42a-415e-b7c5-a253571e88d4-02c7/grid
+sudo apt update
+sudo apt intall ubuntu-desktop
+sudo apt intall tightvncserver
+sudo apt intall gnome-panel gnome-settings-daemon metacity nautilus gnome-terminal
+sudo apt-get install lxde -y
+sudo apt-get install xrdp -y
